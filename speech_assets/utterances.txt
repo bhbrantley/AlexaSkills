@@ -1,0 +1,10 @@
+NextBusTime	when is the next bus
+NextBusTime	next bus
+NextBusTime how much time until the next bus
+NextBusTime	how many minutes
+AMAZON.StopIntent  no stop
+AMAZON.StopIntent  no
+AMAZON.StopIntent  nope
+AMAZON.StopIntent  nada
+AMAZON.StopIntent  please no
+AMAZON.StopIntent  please don't
