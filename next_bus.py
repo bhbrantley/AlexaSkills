@@ -32,7 +32,7 @@ def get_next_bus():
 	for p in predictions:
 	    if p['DirectionText'] == "South to Archives":
 	        time = p['Minutes']
-	        transit_time = str(time) + " minutes"
+	        #transit_time = str(time) + " minutes"
 	        nextbus = "Your next bus is in "
 
 	print(nextbus + str(time) + " minutes")
